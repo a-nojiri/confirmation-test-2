@@ -21,17 +21,24 @@
 10.php artisan db:seed
    
 ## 使用技術(実行環境)
- ･ PHP 8.0
- ･ Laravel 8.x
- ･ MySQL 8.0
- ･ Docker
- ･ Nginx
 
- ##　ＥＲ図
+ ･ PHP 8.0  
+ 
+ ･ Laravel 8.x  
+ 
+ ･ MySQL 8.0  
+ 
+ ･ Docker  
+ 
+ ･ Nginx  
+
+ ## ER図
 
 
 
- ##　ＵＲＬ
-・ 開発環境：http://localhost/
+ ## URL
+ 
+・ 開発環境：http://localhost/  
+
 ・ phpMyAdmin:：http://localhost:8080/
  
