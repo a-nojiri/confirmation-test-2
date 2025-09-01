@@ -11,6 +11,7 @@
 5. composer install
 6. 「.env.example」ファイルを 「.env」ファイルに命名を変更。または、新しく.envファイルを作成
 7. .envに以下の環境変数を追加
+   
     DB_CONNECTION=mysql
     DB_HOST=mysql
     DB_PORT=3306
