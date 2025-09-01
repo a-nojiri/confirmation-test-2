@@ -9,7 +9,7 @@
    ＊MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集して下さい。
 4. docker-compose exec php bash(コンテナ内に入る)
 5. composer install
-6.「.env.example」ファイルを 「.env」ファイルに命名を変更。または、新しく.envファイルを作成
+6. 「.env.example」ファイルを 「.env」ファイルに命名を変更。または、新しく.envファイルを作成
 7. .envに以下の環境変数を追加
     DB_CONNECTION=mysql
     DB_HOST=mysql
