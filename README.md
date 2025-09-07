@@ -3,7 +3,7 @@
 ## 環境構築
 
 1. git clone git@github.com:a-nojiri/confirmation-test-2.git
-2. DOckerDesktopアプリを立ち上げる
+2. DockerDesktopアプリを立ち上げる
 3. docker-compose up -d --build
    
    ＊MySQLは、OSによって起動しない場合があるのでそれぞれのPCに合わせてdocker-compose.ymlファイルを編集して下さい。
